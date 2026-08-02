@@ -85,7 +85,7 @@ z-index:1;
 
 #eyes{
     position:absolute;
-    top:10%;
+    top:6%;
     left:50%;
     transform:translateX(-50%);
     z-index:10;
